@@ -17,7 +17,9 @@ Datasets can be found here https://www.kaggle.com/c/home-credit-default-risk/dat
 
 ## Installation
 Project consists of .ipynb files and open-source datasets available on Kaggle. It can be set up using any Python IDE with access to additional computing power.
+
 Due to the large amount of data, additional RAM and computing units is necessary to perform a lot of the operations in this code, both during EDA & Modelling.
+
 The underlying datasets and information upon which this thesis was structured is available in open-source, everything discussed and conducted in this project is therefore publicly available and replicable.
 
 ```bash
