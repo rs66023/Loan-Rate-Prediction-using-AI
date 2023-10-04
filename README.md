@@ -12,3 +12,21 @@ Subsequently, we transition into predictive modelling, utilizing conventional st
 Primary objective is to unearth the factors that shape and govern credit lines, including the nuanced interplay of financial and non-financial elements, even delving into sociological aspects. By harnessing the capabilities of AI and machine learning, we aspire to empower institutions with the tools they need to make well-informed decisions, particularly in the realm of credit risk assessment.
 
 Datasets can be found here https://www.kaggle.com/c/home-credit-default-risk/data
+
+
+
+## Installation
+Project consists of .ipynb files and open-source datasets available on Kaggle. It can be set up using any Python IDE with access to additional computing power.
+Due to the large amount of data, additional RAM and computing units is necessary to perform a lot of the operations in this code, both during EDA & Modelling.
+The underlying datasets and information upon which this thesis was structured is available in open-source, everything discussed and conducted in this project is therefore publicly available and replicable.
+
+```bash
+# Clone the repository
+git clone https://github.com/rs66023/Loan-Rate-Prediction-using-AI.git
+
+# Navigate to the project directory
+cd your-project
+
+# Install dependencies (if any)
+pip install -r requirements.txt
+- 
